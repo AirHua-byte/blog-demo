@@ -66,8 +66,8 @@ module.exports = {
       },
     ],
     valineConfig: {
-      appId: 'dF6WSKDvabHP7o0LHuMMcPer-gzGzoHsz',// your appId
-      appKey: 'j2vGQo6ONLmRuq5fxXp7Q2kp', // your appKey
+      appId: 'xxx',// your appId
+      appKey: 'xxx', // your appKey
     },
     "sidebar": {
       "/docs/theme-reco/": [
