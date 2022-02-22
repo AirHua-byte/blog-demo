@@ -2,15 +2,15 @@
 home: true
 heroText: vuepress-theme-reco
 tagline: A simple and beautiful vuepress blog theme.
-# heroImage: /hero.png
-# heroImageStyle: {
-#   maxWidth: '600px',
-#   width: '100%',
-#   display: block,
-#   margin: '9rem auto 2rem',
-#   background: '#fff',
-#   borderRadius: '1rem',
-# }
+heroImage: /hero.png
+heroImageStyle: {
+  maxWidth: '600px',
+  width: '100%',
+  display: block,
+  margin: '9rem auto 2rem',
+  background: '#fff',
+  borderRadius: '1rem',
+}
 bgImageStyle: {
   height: '450px'
 }
@@ -25,3 +25,12 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---# blog-demo
+
+# npm run dev运行
+
+# npm run build打包
+
+# 搭建最终效果: [huabyte.com](huabyte.com)
+
+![1645528274406](https://assets.huabyte.com/blog/image/1645528274406.png)
+
